@@ -1,0 +1,7 @@
+train : ../dataset/images/train
+test : ../dataset/images/test
+
+
+nc:6
+
+names: ['wafer','logo','label','garlic','flag','chip']
